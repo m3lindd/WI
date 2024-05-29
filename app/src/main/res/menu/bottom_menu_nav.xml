@@ -2,10 +2,10 @@
 
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:title="Анализы" android:icon="@drawable/analizi"
+    <item android:title="Вакансии" android:icon="@drawable/analizi"
         android:id="@+id/analizi"/>
 
-    <item android:title="Результаты" android:icon="@drawable/results"
+    <item android:title="Избранное" android:icon="@drawable/results"
         android:id="@+id/results"/>
 
     <item android:title="Поддержка" android:icon="@drawable/sup"
